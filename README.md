@@ -3,7 +3,7 @@
 
 An interactive audio-reactive particle system built with vanilla JavaScript and Canvas API.
 
-## 🎮 [LIVE DEMO](https://ranag786tech-lang.github.io
+## 🎮 [LIVE DEMO]https://ranag786tech-lang.github.io/nexus-godmode-ranag786tech-lang.github.io/
 
 ## ✨ Features
 - Real-time microphone audio reactivity
